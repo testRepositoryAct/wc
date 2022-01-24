@@ -1,0 +1,9 @@
+{
+	 "/matches/:status": "/matches?status=:status",
+	 "/matches/:name": "/matches?name=:name",
+	 "/matches/:document": "/matches?document=:document",
+	 "/matches/:createdAt": "/matches?createdAt=:createdAt",
+	 "/matches/:updatedAt": "/matches?updatedAt=:updatedAt",
+	 "/matches/:entityType": "/matches?entityType=:type",
+	 "/matches/alter/:id":"/matches/:id"
+}
